@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(220, 220, 235);
+  font-family: Rockwell;
+  margin: 32px;
+}
+
+h1{
+  text-align: center;
+  color: #2F2A5E;
+  font-size: 40px;
+  margin: 0;
+}
+
+p{
+  text-align: center;
+  padding: 3px;
+}
+
+img{
+ max-width: 100%;
+ height: auto;
+ display: block;
+ margin: auto;
+ border: 24px ridge #A3AE80;
+ padding: 12px;
+}
+
+figure > figcaption{
+  text-align: center;
+  margin: 8px; 
+  font-size: 16px;
+  font-family: Memphis;   
+}
+
+h2{
+  text-align: center;
+  font-size: 24px;
+  color: #191919;
+}
+
+ul > li{
+  font-size: 16px;
+  color: #323232
+}
